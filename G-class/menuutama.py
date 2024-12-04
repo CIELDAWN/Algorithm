@@ -85,7 +85,32 @@ menu_makanan = pd.DataFrame({
         "Matcha powder mixed with warm milk and sugar",
         "Milk ice cream and flavored syrup then shaken together",
         "Usual mineral water",
-        ]
+        ],
+    "Price": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+    ]       
 
 })
 promo_data = pd.DataFrame({
